@@ -28,6 +28,7 @@
 - Pre-Compiled Scratch Enviroment
 - No Desktop Software Required
 - Super Easy to setup with a Documentation
+- a mod of Dinosaurmod
 
 ## Quick Start
 
